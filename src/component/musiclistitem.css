@@ -1,0 +1,12 @@
+.musicListItem.active{
+	color: green;
+}
+.musicListItem{
+	padding: 5px 0;
+}
+.musicListItem p{
+	display: inline-block;
+}
+.musicListItem .delete{
+	float: right;
+}

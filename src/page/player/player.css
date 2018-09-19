@@ -1,0 +1,53 @@
+.controll-wrapper .music-function .music-voice .voice{
+	display: inline-block;
+	width: 100px;
+}
+.player-page{
+	padding-top: 20px;
+	max-width: 750px;
+	margin: 0 auto;
+}
+.caption{
+	padding-bottom: 25px;
+}
+.caption a{
+	font-size: 28px;
+	color: #b4d8f7;
+	text-decoration: none;
+}
+.music-box{
+	display: flex;
+}
+.controll-wrapper{
+	flex: 1;
+	padding-right: 50px;
+}
+.music-function{
+	margin-top: 30px;
+}
+.surplus-time{
+	display: inline-block;
+	padding-right: 50px;
+}
+.music-voice{
+	display: inline-block;
+}
+.right-wrapper{
+	width: 185px;
+	height: auto;
+}
+.music-title{
+	font-size: 24px;
+	font-weight: 400;
+	color: #333;
+}
+.music-artist{
+	font-size: 16px;
+	font-weight: 400;
+}
+.play-part{
+	padding-top: 25px;
+}
+.play-part span{
+	margin-right: 25px;
+}
